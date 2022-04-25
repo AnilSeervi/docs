@@ -1,4 +1,4 @@
-Provider | Supported secret | API slug
+Provider | Supported secret | Secret types
 --- | --- | ---
 Adafruit IO | Adafruit IO Key | adafruit_io_key
 {%- ifversion fpt or ghec or ghes > 3.1 or ghae %}
